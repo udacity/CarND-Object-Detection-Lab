@@ -1,2 +1,4 @@
 .vscode
 __pycache__
+.DS_STORE
+.ipynb_checkpoints
