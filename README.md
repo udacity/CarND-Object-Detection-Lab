@@ -29,6 +29,7 @@ The environment should be listed via `conda info --envs`:
 #
 carnd-advdl-odlab        /usr/local/anaconda3/envs/carnd-advdl-odlab
 root                  *  /usr/local/anaconda3
+```
 
 Further documentation on [working with Anaconda environments](https://conda.io/docs/using/envs.html#managing-environments). 
 
