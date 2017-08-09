@@ -1,5 +1,7 @@
 # CarND Object Detection Lab
 
+![](assets/clip.gif)
+
 In lab this you will:
 
 * Learn about *MobileNets* and separable depthwise convolutions.
@@ -10,7 +12,30 @@ In lab this you will:
 
 Open the notebook and work through it!
 
-![](assets/clip.gif)
+### Requirements
+
+Install environment with [Anaconda](https://www.continuum.io/downloads):
+
+```sh
+conda create env -f environment.yml
+```
+
+Change TensorFlow pip installation from `tensorflow-gpu` to `tensorflow` if you don't have a GPU available.
+
+The environment should be listed via `conda info --envs`:
+
+```sh
+# conda environments:
+#
+carnd-advdl-odlab        /usr/local/anaconda3/envs/carnd-advdl-odlab
+root                  *  /usr/local/anaconda3
+
+Further documentation on [working with Anaconda environments](https://conda.io/docs/using/envs.html#managing-environments). 
+
+Particularly useful sections:
+
+https://conda.io/docs/using/envs.html#change-environments-activate-deactivate
+https://conda.io/docs/using/envs.html#remove-an-environment
 
 ### Resources
 
