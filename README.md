@@ -7,7 +7,7 @@ In lab this you will:
 * Learn about *MobileNets* and separable depthwise convolutions.
 * The SSD (Single Shot Detection) architecture used for object detection
 * Use pretrained TensorFlow object detection inference models to detect objects
-* Use different architectures and weight the tradeoffs.
+* Use different architectures and weigh the tradeoffs.
 * Apply an object detection pipeline to a video.
 
 Open the notebook and work through it!
