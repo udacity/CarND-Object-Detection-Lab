@@ -10,7 +10,7 @@ dependencies:
     - pillow
     - scipy
     - ffmpeg
-    - imageio=2.1.2
+    - imageio==2.1.2
     - pip:
         - moviepy
         - tensorflow-gpu==1.2
