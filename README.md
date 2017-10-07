@@ -17,7 +17,7 @@ Open the notebook and work through it!
 Install environment with [Anaconda](https://www.continuum.io/downloads):
 
 ```sh
-conda create env -f environment.yml
+conda env create -f environment.yml
 ```
 
 Change TensorFlow pip installation from `tensorflow-gpu` to `tensorflow` if you don't have a GPU available.
