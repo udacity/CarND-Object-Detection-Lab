@@ -1,0 +1,17 @@
+name: carnd-advdl-odlab
+channels:
+    - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+    - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge 
+    - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/
+dependencies:
+    - python==3.6
+    - numpy
+    - matplotlib
+    - jupyter
+    - pillow
+    - scipy
+    - ffmpeg
+    - imageio==2.1.2
+    - pip:
+        - moviepy
+        - tensorflow-gpu==1.4
